@@ -1,0 +1,10 @@
+E:\Programming\DotNetDownloader\MyApplication\obj\Debug\MyApplication.csprojResolveAssemblyReference.cache
+E:\Programming\DotNetDownloader\MyApplication\obj\Debug\MyApplication.frmMain.resources
+E:\Programming\DotNetDownloader\MyApplication\obj\Debug\MyApplication.Properties.Resources.resources
+E:\Programming\DotNetDownloader\MyApplication\obj\Debug\MyApplication.csproj.GenerateResource.Cache
+E:\Programming\DotNetDownloader\MyApplication\bin\Debug\MyApplication.exe
+E:\Programming\DotNetDownloader\MyApplication\bin\Debug\MyApplication.pdb
+E:\Programming\DotNetDownloader\MyApplication\obj\Debug\MyApplication.exe
+E:\Programming\DotNetDownloader\MyApplication\obj\Debug\MyApplication.pdb
+E:\Programming\DotNetDownloader\MyApplication\obj\Debug\MyApplication.frmNewDownload.resources
+E:\Programming\DotNetDownloader\MyApplication\obj\Debug\MyApplication.frmDownloading.resources
